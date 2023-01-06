@@ -1,0 +1,73 @@
+.input-group {
+    display: none !important;
+}
+.videodetails-yakov:nth-child(1) {
+    display: none !important;
+}
+.col-md-8 {
+    width: 100%;
+}
+.boxPart:nth-child(1) {
+    display: none !important;
+}
+.boxPart:nth-child(2) {
+    display: none !important;
+}
+#useraction {
+    display: none !important;
+}
+.videodetails-yakov:nth-child(4) {
+    display: none !important;
+}
+.videodetails-yakov:nth-child(5) {
+    display: none !important;
+}
+.login_register_header {
+    display: none !important;
+}
+.col-md-4 {
+    width: 100% !important;
+}
+#\38 48863 {
+    display: none !important;
+}
+
+#\33 93392 {
+    display: none !important;
+}
+
+#row br {
+    display: none;
+}
+#row {
+    display: grid;
+    grid-template-columns: 370px 370px 370px;
+    grid-auto-flow: row dense;
+    grid-gap: 5px;
+    grid-template-rows: auto auto;
+    justify-content: start;
+}
+
+.well:nth-child(10) > div:nth-child(2) {
+    display: none !important;
+}
+
+.well:nth-child(11) > div:nth-child(2) {
+    display: none !important;
+}
+
+.well:nth-child(12) > div:nth-child(2) {
+    display: none !important;
+}
+
+.well:nth-child(13) > div:nth-child(2) {
+    display: none !important;
+}
+
+.well:nth-child(14) > div:nth-child(2) {
+    display: none !important;
+}
+
+.well:nth-child(15) > div:nth-child(2) {
+    display: none !important;
+}
