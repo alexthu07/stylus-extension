@@ -48,12 +48,21 @@
 }
 #row {
     padding-top: 100px;
+    padding-bottom: 50px;
     display: grid;
     grid-template-columns: 370px 370px 370px;
     grid-auto-flow: row dense;
-    grid-gap: 5px;
+    grid-row-gap: 25px;
     grid-template-rows: auto auto;
     justify-content: start;
+}
+
+.title-truncate {
+    display: block;
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: Normal;
 }
 
 .well:nth-child(10) > div:nth-child(2) {
