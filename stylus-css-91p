@@ -1,11 +1,9 @@
 .input-group {
     display: none !important;
 }
+
 .videodetails-yakov:nth-child(1) {
-    display: none !important;
-}
-.col-md-8 {
-    width: 100%;
+    height: 50px;
 }
 .boxPart:nth-child(1) {
     display: none !important;
@@ -22,9 +20,18 @@
 .videodetails-yakov:nth-child(5) {
     display: none !important;
 }
+/*
 .login_register_header {
     display: none !important;
 }
+*/
+.col-md-4.col-ms-4.col-xs-12 .login_register_header {
+    display: none !important;
+}
+.col-md-8 {
+    width: 100%;
+}
+
 .col-md-4 {
     width: 100% !important;
 }
@@ -40,6 +47,7 @@
     display: none;
 }
 #row {
+    padding-top: 100px;
     display: grid;
     grid-template-columns: 370px 370px 370px;
     grid-auto-flow: row dense;
